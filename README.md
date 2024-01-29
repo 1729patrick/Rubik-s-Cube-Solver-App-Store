@@ -1,7 +1,7 @@
  <div align="center"> 
 <h1> Rubik's Cube Solver<h1>
 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319552-4c0b2cd9-6e6f-4a1e-a0cd-ad956e668359.png" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/780aa303-af26-4a58-92e1-9733cf6a699f" /> 
 </div>
 
 **Rubik's Cube Solver** is an iOS application designed for Rubik's Cube enthusiasts of all skill levels. With its lightning-fast solving capabilities, intuitive and straightforward layout, and helpful features, this app is perfect for on-the-go solving or practice at home.
@@ -22,15 +22,14 @@ Don't wait, download **Rubik's Cube Solver**. 🍀
 
 # Screenshots
 <p align="center">
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319313-d04b1fb4-a15d-4734-b70a-02b4522be739.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319319-5650815e-9645-4941-90e2-4c3df6abb49c.png" /> 
-</br>
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319298-55662091-dcdc-48e3-8ba0-0ca4fb5c8f21.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319303-f78ceedc-1627-4d35-9d0f-c4b2d9cdcfe1.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319306-cef1a4b8-6776-42ff-ae86-929e7d890ad2.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319308-3b8f25b6-8789-41e0-97e3-55b9a68826e9.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319309-63572a51-8ccb-4791-a95f-540b38816a54.png" /> 
-<img width=220 src="https://user-images.githubusercontent.com/35247414/229319310-f26962dc-2a43-4a71-ae22-e5f44baa0020.png" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/293474c5-5830-42e6-bd47-2c41d67697d1" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/e7136d12-217a-461b-a6f2-abdfbfdfec49" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/560db645-bdd8-4735-9a68-9f8787f365de" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/988996ce-f6c6-44d8-8a01-3bff1cd1e526" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/bff2ce38-57cc-426f-996b-82a8963d5d57" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/6f3a876e-bf49-4922-a01f-821aa17cb8be" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/700b1c35-10b7-4161-8074-3fc0d4763336" /> 
+<img width=220 src="https://github.com/1729patrick/Rubik-s-Cube-Solver-App-Store/assets/35247414/3a6d0100-3b2b-4596-ac19-1d3994c527f2" /> 
 </p>
 
 # Technologies
